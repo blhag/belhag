@@ -1,0 +1,111 @@
+nav{
+    display: flex;
+    background-color: black;
+    background-attachment: fixed;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+     }  
+     a{
+        padding: 10px 10px ;
+        color: hsl(255, 255%, 255%);
+
+     }
+     .logo{ color: hsl(255, 255%, 255%);
+        padding: auto;
+        position:relative ;
+        right :-70%;
+        margin: -15px;
+        
+
+
+     }
+     .maenu{  display: flex;
+               font-size:  20px;
+               margin: 10px 30px;
+               padding: 0px 250px;
+            
+     }
+     .img1{
+        height: 250px;
+        width: 200px;
+     }
+     .hh3{
+        background-color: rgb(211, 202, 202) ;
+       
+        position: 0 50 0 50 ;
+        margin: 20px 650px;
+        padding: 15px;
+        border-style: solid;
+        border-width: 2px;
+        border-color: rgb(16, 212, 49)
+     
+     }
+     h3{
+      margin:  0px 50px; 
+     }
+      .a1{
+      margin:  0px 50px; 
+     }
+     .m2{
+        padding: 20px;
+        margin: 20px;
+
+     }
+     .ff {
+      padding: 20px;
+      margin: 20px;
+
+   }
+
+     header{
+         background-image:url(111.jfif) ;
+         height: 400px;
+         width:3000px ;
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-size:   cover;
+         
+     }
+     .fff{ display:flex;
+      font-size:  15px;
+               margin: 10px 30px;
+               padding: 0px 250px;
+
+     }
+    span {
+
+      display: inline-block;
+    }
+footer{
+   background-color: rgb(75, 65, 65);
+}
+div{
+
+   margin: 50px ;
+}
+   .emall{
+      background-image: url(1.jfif);
+      height: 250px;
+      width:1500px ;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size:   cover;
+      padding: 20px;
+      margin: 20px 0px;
+   }
+   form{
+      position:relative ;
+      right :-20%;
+      bottom: -50px;
+   }
+   .em1{
+      height: 25px;
+      width:200px ;
+      margin: 0px -5px 0px 0px;
+      
+   }
+   .em2{ height: 30px;
+      width:70px ;
+      
+   }
